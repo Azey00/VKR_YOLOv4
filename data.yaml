@@ -1,0 +1,8 @@
+train: C:/Users/vlad/Desktop/images/train  # 309 images
+val: C:/Users/vlad/Desktop/val # 34 images
+
+# number of classes
+nc: 10
+
+# class names
+names: ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine',]
